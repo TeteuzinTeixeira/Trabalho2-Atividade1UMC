@@ -1,0 +1,14 @@
+D:\Programação\.NET\TrabalhoWakim\bin\Debug\net8.0\TrabalhoWakim.exe
+D:\Programação\.NET\TrabalhoWakim\bin\Debug\net8.0\TrabalhoWakim.deps.json
+D:\Programação\.NET\TrabalhoWakim\bin\Debug\net8.0\TrabalhoWakim.runtimeconfig.json
+D:\Programação\.NET\TrabalhoWakim\bin\Debug\net8.0\TrabalhoWakim.dll
+D:\Programação\.NET\TrabalhoWakim\bin\Debug\net8.0\TrabalhoWakim.pdb
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\TrabalhoWakim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\TrabalhoWakim.AssemblyInfoInputs.cache
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\TrabalhoWakim.AssemblyInfo.cs
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\TrabalhoWakim.csproj.CoreCompileInputs.cache
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\TrabalhoWakim.dll
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\refint\TrabalhoWakim.dll
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\TrabalhoWakim.pdb
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\TrabalhoWakim.genruntimeconfig.cache
+D:\Programação\.NET\TrabalhoWakim\obj\Debug\net8.0\ref\TrabalhoWakim.dll
